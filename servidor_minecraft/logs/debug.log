@@ -694,3 +694,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Apr2025 22:44:47.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [08Apr2025 22:45:31.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [08Apr2025 22:45:31.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[08Apr2025 22:49:15.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Apr2025 22:49:15.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Apr2025 22:54:15.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Apr2025 22:54:15.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

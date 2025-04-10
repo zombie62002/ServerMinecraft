@@ -106,3 +106,5 @@
 [10Apr2025 02:15:45.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [10Apr2025 02:16:01.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [10Apr2025 02:16:01.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[10Apr2025 02:28:26.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:48759] logged in with entity id 646 at (-2.749870606890389, 67.0, -13.82765477889074)
+[10Apr2025 02:28:26.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game

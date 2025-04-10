@@ -103,3 +103,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 01:30:31.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [10Apr2025 01:31:00.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/192.168.196.84:54288] logged in with entity id 3059 at (-44.3440182970295, 83.0, 44.434286816215376)
 [10Apr2025 01:31:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[10Apr2025 01:53:02.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[10Apr2025 01:53:02.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[10Apr2025 01:53:36.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/192.168.196.84:55556] logged in with entity id 7014 at (-40.44993710360024, 83.0, 47.30000001192093)
+[10Apr2025 01:53:36.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game

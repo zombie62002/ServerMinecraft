@@ -99,3 +99,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 00:56:56.663] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [10Apr2025 01:07:13.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/192.168.196.84:52873] logged in with entity id 151 at (-44.43309325146002, 87.0, 44.730574038791815)
 [10Apr2025 01:07:13.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[10Apr2025 01:30:31.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[10Apr2025 01:30:31.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[10Apr2025 01:31:00.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/192.168.196.84:54288] logged in with entity id 3059 at (-44.3440182970295, 83.0, 44.434286816215376)
+[10Apr2025 01:31:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game

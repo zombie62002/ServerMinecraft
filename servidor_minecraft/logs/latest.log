@@ -97,3 +97,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 00:56:56.623] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6361 ms
 [10Apr2025 00:56:56.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.469s)! For help, type "help"
 [10Apr2025 00:56:56.663] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Apr2025 01:07:13.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/192.168.196.84:52873] logged in with entity id 151 at (-44.43309325146002, 87.0, 44.730574038791815)
+[10Apr2025 01:07:13.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game

@@ -1,2 +1,3 @@
-[09Apr2025 03:26:13.204] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[09Apr2025 03:26:13.209] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[10Apr2025 00:01:44.273] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72372de6[id=<null>,name=Zombie62002,properties={},legacy=false] (/172.23.181.99:63756) lost connection: Disconnected
+[10Apr2025 00:02:05.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/172.23.181.99:63798] logged in with entity id 772 at (-41.5, 73.0, 61.5)
+[10Apr2025 00:02:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game

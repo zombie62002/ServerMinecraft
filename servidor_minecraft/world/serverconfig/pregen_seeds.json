@@ -1,0 +1,38 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:the_end",
+			"seed": 6077701841590125813
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 6077701841590125813
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 6077701841590125813
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": 6077701841590125813
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:the_end",
+			"seed": 6077701841590125813
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 6077701841590125813
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 6077701841590125813
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": 6077701841590125813
+		}
+	]
+}

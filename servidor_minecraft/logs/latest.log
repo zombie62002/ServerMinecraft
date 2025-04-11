@@ -181,3 +181,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 03:14:31.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.071483491364745,-0.5800000131130219,-0.2750985569178823
 [11Apr2025 03:15:06.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Stone Age]
 [11Apr2025 03:15:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Getting an Upgrade]
+[11Apr2025 03:18:33.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Monster Hunter]
+[11Apr2025 03:20:31.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Acquire Hardware]
+[11Apr2025 03:20:58.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Acquire Hardware]
+[11Apr2025 03:21:14.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Isn't It Iron Pick]
+[11Apr2025 03:21:42.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Acquire Hardware]
+[11Apr2025 03:26:39.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Monster Hunter]
+[11Apr2025 03:27:47.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Acquire Hardware]
+[11Apr2025 03:27:59.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Isn't It Iron Pick]

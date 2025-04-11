@@ -135,3 +135,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 02:47:24.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:41445] logged in with entity id 2048 at (-48.5, 80.0, 113.5)
 [11Apr2025 02:47:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [11Apr2025 02:47:45.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> putas
+[11Apr2025 02:47:54.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[11Apr2025 02:47:54.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[11Apr2025 02:48:45.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Monster Hunter]
+[11Apr2025 02:49:53.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Getting an Upgrade]
+[11Apr2025 02:53:38.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:60583] logged in with entity id 3734 at (-48.5, 80.0, 113.5)
+[11Apr2025 02:53:38.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[11Apr2025 02:54:09.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[11Apr2025 02:54:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[11Apr2025 02:54:25.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[11Apr2025 02:54:25.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[11Apr2025 02:54:38.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[11Apr2025 02:54:38.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[11Apr2025 02:55:37.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.79.160.79:40333] logged in with entity id 4151 at (-15.487348513042248, 85.0, 162.7691231424851)
+[11Apr2025 02:55:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game

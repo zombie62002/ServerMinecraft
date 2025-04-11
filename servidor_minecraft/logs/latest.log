@@ -116,3 +116,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 04:08:51.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:50899] logged in with entity id 326 at (-234.40235975868993, 46.0, 108.362679981001)
 [11Apr2025 04:08:51.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [11Apr2025 04:12:28.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Hunt and Gather]
+[11Apr2025 04:17:00.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Isn't It Iron Pick]
+[11Apr2025 04:17:32.029] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17ded75f[id=<null>,name=Pokenaito,properties={},legacy=false] (/127.71.15.208:53291) lost connection: Disconnected
+[11Apr2025 04:17:40.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:54757] logged in with entity id 1522 at (-238.29853071154568, 46.0, 104.45618421943507)
+[11Apr2025 04:17:40.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[11Apr2025 04:23:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Hot Stuff]

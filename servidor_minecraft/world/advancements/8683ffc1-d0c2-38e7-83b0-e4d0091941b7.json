@@ -2579,9 +2579,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-11 04:32:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2025-04-11 04:18:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-11 04:31:30 +0000"
     },
     "done": true
   },
@@ -2591,9 +2603,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-04-11 04:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-11 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-04-11 04:32:11 +0000"
     },
     "done": true
   },
@@ -2651,6 +2675,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-04-11 04:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-04-11 04:27:14 +0000"
@@ -2690,6 +2720,12 @@
   "farmersdelight:recipes/misc/canvas": {
     "criteria": {
       "has_straw": "2025-04-11 04:18:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-11 04:31:30 +0000"
     },
     "done": true
   },
@@ -2741,6 +2777,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-04-11 04:32:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-04-11 04:29:46 +0000"
@@ -2756,6 +2798,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-11 04:32:00 +0000"
     },
     "done": true
   },
@@ -2783,6 +2831,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-04-11 04:32:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-04-11 04:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
@@ -2807,9 +2867,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-11 04:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-04-11 04:31:30 +0000"
     },
     "done": true
   },
@@ -2822,6 +2894,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-04-11 04:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-11 04:39:03 +0000"
     },
     "done": true
   },
@@ -2903,6 +2981,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-04-11 04:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
@@ -2915,6 +2999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-11 04:39:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2025-04-11 04:18:40 +0000"
@@ -2924,6 +3014,18 @@
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2025-04-11 04:29:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-11 04:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-11 04:32:00 +0000"
     },
     "done": true
   },

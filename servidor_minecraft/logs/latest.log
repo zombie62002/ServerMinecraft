@@ -192,3 +192,4 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [11Apr2025 04:36:43.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-698, y=-65, z=237}
 [11Apr2025 04:37:52.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7432, l='ServerLevel[world]', x=-231.76, y=-256.00, z=109.69] died, message: 'Villager was killed'
 [11Apr2025 04:45:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Crops of the Wild]
+[11Apr2025 05:04:11.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10029, l='ServerLevel[world]', x=-697.41, y=66.00, z=321.70] died, message: 'Villager suffocated in a wall'

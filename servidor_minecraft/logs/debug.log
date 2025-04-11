@@ -8186,3 +8186,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 03:45:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Not Today, Thank You]
 [11Apr2025 03:46:15.641] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.LocateHidingPlaceMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
 [11Apr2025 03:46:15.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16215, l='ServerLevel[world]', x=-231.76, y=-256.00, z=109.69] died, message: 'Villager was killed'
+[11Apr2025 03:48:50.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 03:48:50.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 03:50:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Crops of the Wild]
+[11Apr2025 03:53:42.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Suit Up]
+[11Apr2025 03:53:50.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 03:53:50.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

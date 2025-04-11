@@ -162,3 +162,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 03:00:34.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [11Apr2025 03:01:57.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Stone Age]
 [11Apr2025 03:02:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Getting an Upgrade]
+[11Apr2025 03:08:56.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by The Horrors
+[11Apr2025 03:09:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Crops of the Wild]
+[11Apr2025 03:11:08.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Monster Hunter]
+[11Apr2025 03:12:04.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.79.160.79:58797] logged in with entity id 8594 at (-45.25454766621228, 77.0, 113.92609954657223)
+[11Apr2025 03:12:04.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[11Apr2025 03:12:34.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Timed out
+[11Apr2025 03:12:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[11Apr2025 03:12:48.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.79.160.79:42603] logged in with entity id 8825 at (-45.25454766621228, 77.0, 113.92609954657223)
+[11Apr2025 03:12:48.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[11Apr2025 03:12:50.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rempalago[/127.236.67.145:44613] logged in with entity id 8874 at (-43.5, 75.0, 110.5)
+[11Apr2025 03:12:50.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago joined the game
+[11Apr2025 03:12:50.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has completed the challenge [The Undead]
+[11Apr2025 03:13:20.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rempalago lost connection: Timed out
+[11Apr2025 03:13:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago left the game
+[11Apr2025 03:13:29.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rempalago[/127.236.67.145:33189] logged in with entity id 9087 at (-43.5, 75.0, 110.5)
+[11Apr2025 03:13:29.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago joined the game
+[11Apr2025 03:14:31.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.071483491364745,-0.5800000131130219,-0.2750985569178823
+[11Apr2025 03:15:06.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Stone Age]
+[11Apr2025 03:15:30.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Getting an Upgrade]

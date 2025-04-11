@@ -385,6 +385,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-11 02:59:28 +0000",
       "apple": "2025-04-11 02:48:25 +0000",
+      "mutton": "2025-04-11 04:21:28 +0000",
       "bread": "2025-04-11 03:47:55 +0000",
       "rotten_flesh": "2025-04-11 03:42:16 +0000",
       "cooked_chicken": "2025-04-11 03:08:13 +0000"
@@ -2500,6 +2501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-04-11 04:29:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
@@ -2518,6 +2525,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-04-11 04:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
@@ -2527,6 +2540,18 @@
   "farmersdelight:recipes/building_blocks/straw_bale": {
     "criteria": {
       "has_straw": "2025-04-11 04:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-04-11 04:29:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-04-11 04:29:12 +0000"
     },
     "done": true
   },
@@ -2572,6 +2597,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-11 04:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-11 04:29:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-11 04:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-11 04:29:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
@@ -2590,9 +2639,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-11 04:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-04-11 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-11 04:27:14 +0000"
     },
     "done": true
   },
@@ -2644,9 +2705,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-04-11 04:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-11 04:28:19 +0000"
     },
     "done": true
   },
@@ -2656,9 +2729,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-04-11 04:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-04-11 04:29:46 +0000"
     },
     "done": true
   },
@@ -2680,9 +2765,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-11 04:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-04-11 04:29:31 +0000"
     },
     "done": true
   },
@@ -2704,6 +2801,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-11 04:20:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-11 04:11:10 +0000"
@@ -2713,6 +2816,12 @@
   "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
     "criteria": {
       "has_straw": "2025-04-11 04:18:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-11 04:29:46 +0000"
     },
     "done": true
   },
@@ -2737,6 +2846,18 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-04-11 04:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-11 04:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-11 04:29:31 +0000"
     },
     "done": true
   },
@@ -2770,6 +2891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-11 04:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-11 04:16:42 +0000"
@@ -2791,6 +2918,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
       "has_straw": "2025-04-11 04:18:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-04-11 04:29:46 +0000"
     },
     "done": true
   },

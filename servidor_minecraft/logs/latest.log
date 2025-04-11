@@ -121,3 +121,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 04:17:40.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:54757] logged in with entity id 1522 at (-238.29853071154568, 46.0, 104.45618421943507)
 [11Apr2025 04:17:40.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [11Apr2025 04:23:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Hot Stuff]
+[11Apr2025 04:25:57.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Sweet Dreams]
+[11Apr2025 04:25:59.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Sweet Dreams]
+[11Apr2025 04:26:00.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Sweet Dreams]
+[11Apr2025 04:29:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Bonfire Lit]
+[11Apr2025 04:34:24.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has made the advancement [Not Today, Thank You]

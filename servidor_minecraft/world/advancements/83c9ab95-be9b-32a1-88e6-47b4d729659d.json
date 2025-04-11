@@ -1760,6 +1760,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-11 04:25:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-11 04:17:35 +0000"
@@ -1880,6 +1886,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-11 04:24:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-04-11 04:17:35 +0000"
@@ -1889,6 +1901,12 @@
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-04-11 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-04-11 04:22:52 +0000"
     },
     "done": true
   },
@@ -1913,6 +1931,12 @@
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-04-11 04:17:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-11 04:24:05 +0000"
     },
     "done": true
   },
